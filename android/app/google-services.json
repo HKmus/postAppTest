@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644064015864",
+    "project_id": "post-app-e3eda",
+    "storage_bucket": "post-app-e3eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644064015864:android:71220a45f254a0fbce120d",
+        "android_client_info": {
+          "package_name": "com.example.postapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644064015864-7atc7aqc8p0q213gs47nk3h2a3joj0v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhlGtdyfAbydJevWF34xasNdq0VQrvtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644064015864-7atc7aqc8p0q213gs47nk3h2a3joj0v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
